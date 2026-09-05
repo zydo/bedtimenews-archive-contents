@@ -1,0 +1,50 @@
+{
+  "query": "泰国 2025年 出生人口 416574 75年 新低",
+  "follow_up_questions": null,
+  "answer": "In 2025, Thailand's birth population was 416,574, marking a 75-year low. This decline reflects a significant drop from previous years and ongoing population aging issues.",
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.bastillepost.com/hongkong/article/16351144-%E6%B3%B0%E5%9C%8B%E7%94%9F%E8%82%B2%E7%8E%87%E5%89%B575%E5%B9%B4%E6%96%B0%E4%BD%8E-%E9%9D%A2%E8%87%A8%E4%BA%BA%E5%8F%A3%E8%80%81%E5%8C%96%E5%8B%9E%E5%8B%95%E5%8A%9B%E8%90%8E%E7%B8%AE%E5%8D%B1",
+      "title": "泰國生育率創75年新低面臨人口老化勞動力萎縮危機",
+      "content": "Jul 12, 2026 — 2025年，泰國總出生人數僅為416,574人，創下75年來新低，而死亡人數則達到559,684人，超出生人數14萬人，顯示當地人口已連續第五年錄得負增長。",
+      "score": 0.9277898,
+      "raw_content": null,
+      "id": "444238-00"
+    },
+    {
+      "url": "https://taithaitimes.com/article/detail/8410",
+      "title": "泰新生兒75年新低少子化衝擊勞動力",
+      "content": "Jan 9, 2026 — 泰國2025 年新生兒僅41 萬人，創75 年新低，死亡數連5 年高於出生。人口老化、勞動力萎縮，政府研擬促進生育與高齡對策。",
+      "score": 0.9092728,
+      "raw_content": null,
+      "id": "0355b7-01"
+    },
+    {
+      "url": "https://www.facebook.com/themacaonews/posts/%E7%B6%9C%E5%90%88%E4%B8%8D%E5%90%8C%E6%B3%B0%E5%AA%92%E5%A0%B1%E5%B0%8E%E6%A0%B9%E6%93%9A%E6%B3%B0%E5%9C%8B%E6%94%BF%E5%BA%9C%E6%9C%80%E6%96%B0%E8%B3%87%E6%96%992025%E5%B9%B4%E5%85%A8%E5%B9%B4%E6%B3%B0%E5%9C%8B%E6%96%B0%E7%94%9F%E5%AC%B0%E5%85%92%E4%B8%8D%E8%B6%B342%E8%90%AC%E5%8F%AA%E6%9C%89416574%E8%BC%832024%E5%B9%B4%E5%86%8D%E6%B8%9B%E5%B0%91%E8%BF%915%E8%90%AC%E6%9B%B4%E5%89%B5%E4%B8%8B%E8%BF%9175%E5%B9%B4%E4%BE%86%E7%9A%84%E6%9C%80%E4%BD%8E%E8%A8%98%E9%8C%84%E8%B3%87%E6%96%99%E5%9C%96%E7%89%87_%E6%9B%BC%E8%B0%B72025/1683033622676794",
+      "title": "綜合不同泰媒報導，根據泰國政府最新資料，2025年全 ...",
+      "content": "綜合不同泰媒報導，根據泰國政府最新資料，2025年全年泰國新生嬰兒不足42萬，只有416574，較2024年再減少近5萬，更創下近75年來的最低記錄｡",
+      "score": 0.9065293,
+      "raw_content": null,
+      "id": "f128f5-02"
+    },
+    {
+      "url": "https://www.zhihu.com/pin/1990835220426036876",
+      "title": "泰国2025年出生人口为416574人，相比2024年减少了45666人",
+      "content": "首个公布2025年人口动态的国家| 泰国2025年出生人口为416574人，相比2024年减少了45666人，再度刷新了有统计以来的最低记录，粗出生率为6.3‰，预计总和生育率降至0.88",
+      "score": 0.8980626,
+      "raw_content": null,
+      "id": "898acb-03"
+    },
+    {
+      "url": "https://www.thaiheadlines.com/183199",
+      "title": "出生数连续下降泰国新生人口创75年来新低",
+      "content": "Jan 9, 2026 — 数据显示，2025年泰国新生人口为75年来最低水平，且连续第二年低于50万人。据悉，1950年泰国新生人口为525800人，随后持续上升，至1963年首次突破100",
+      "score": 0.8868231,
+      "raw_content": null,
+      "id": "ae86bd-04"
+    }
+  ],
+  "response_time": 1.0,
+  "request_id": "e8af6f3f-50f8-471f-99b2-e4f6d6780d7a"
+}

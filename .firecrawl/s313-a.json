@@ -1,0 +1,42 @@
+{
+  "query": "富士康 越南 两个新工厂 5.51亿美元 批准",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://tech.ifeng.com/c/8axmvLLtM4t",
+      "title": "富士康获准投资5.51亿美元，在越南新建2个新工厂",
+      "content": "根据投资授权证书信息，这两个新项目将于2026 年7 月竣工，经过一段时间的机械安装和试运行后，它们将于2027 年5 月正式投产。",
+      "score": 0.933969,
+      "raw_content": null,
+      "id": "f20251-00"
+    },
+    {
+      "url": "https://m.jiemian.com/article/11371809.html",
+      "title": "富士康将斥资5.51亿美元在越南投资两个新项目",
+      "content": "富士康获得投资许可，将在越南北部沿海省份广宁省投资两个项目，投资金额约5.51亿美元。根据一份当地政府网站发布的新闻稿，富士康将在Song Khoai工业园投资2.637亿",
+      "score": 0.9061314,
+      "raw_content": null,
+      "id": "939872-01"
+    },
+    {
+      "url": "https://x.com/yuyy614893671/status/1810067729929699347",
+      "title": "【富士康将在越南北部投资5.51 亿美元建设两个项目】 ...",
+      "content": "富士康将在越南北部沿海省份广宁投资约5.51 亿美元建设两个新项目。 据广宁省政府网站上的公告，该公司已获准在Song Khoai Amata 工业园区投资2.64 亿美元",
+      "score": 0.9047265,
+      "raw_content": null,
+      "id": "0da0c0-02"
+    },
+    {
+      "url": "https://www.cls.cn/detail/1723640",
+      "title": "富士康将斥资5.51亿美元在越南投资两个新项目",
+      "content": "富士康将斥资5.51亿美元在越南投资两个新项目. 富士康获得投资许可,将在越南北部沿海省份广宁省投资两个项目,投资金额约5.51亿美元。 产能为418万件/年",
+      "score": 0.90227455,
+      "raw_content": null,
+      "id": "b448f0-03"
+    }
+  ],
+  "response_time": 0.89,
+  "request_id": "0eb7e35c-25e0-472f-b87d-e7fd3953e4a6"
+}

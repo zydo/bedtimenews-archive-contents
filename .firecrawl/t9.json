@@ -1,0 +1,50 @@
+{
+  "query": "xAI gas turbines north Mississippi 2026 data center Tennessee",
+  "follow_up_questions": null,
+  "answer": "Elon Musk's xAI plans to build a gas turbine power plant in Southaven, Mississippi, to power its data centers, despite local opposition and permit issues. The plant will have 41 turbines and generate 1.2 gigawatts of power. Legal challenges exist over the lack of proper permits.",
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.cnbc.com/2026/03/10/elon-musk-xai-permit-for-mississippi-plant-despite-pollution-concerns.html",
+      "title": "Elon Musk xAI permit for Mississippi plant despite pollution concerns",
+      "content": "Key Points\n\n Mississippi regulators authorized xAI to build a power plant with 41 natural gas-burning turbines in Southaven to power its nearby data centers.\n The company, now part of SpaceX, obtained permits to build the plant despite residents' concerns about noise and air pollution.\n In Southaven, near Memphis, Tennessee, xAI is planning to construct a large data center dubbed Macrohardrr.\n\nElon musk and the xAI logo.\n\nVincent Feuray | Afp | Getty Images [...] Now owned by SpaceX after a merger was announced in February, xAI has been using more than a dozen temporary turbines for months at the facility in Southaven, claiming that no federal permit has been required. The company has two data centers — Colossus 1 and Colossus 2 — in Memphis, Tennessee, just across the Mississippi state line. [...] Elon Musk's xAI scored a victory in Mississippi, where regulators on Tuesday authorized the artificial intelligence company to build a power plant with 41 natural gas-burning turbines in the town of Southaven to power its nearby data centers.\n\nThe Mississippi Department of Environmental Quality \"voted to approve the permit\" forxAI subsidiary MZX Tech LLC \"after careful consideration of all public comments and community concerns,\" MDEQ spokesperson Jan Schaefer told CNBC via email.",
+      "score": 0.7646988,
+      "raw_content": null,
+      "id": "0b6f72-00"
+    },
+    {
+      "url": "https://www.selc.org/news/xai-built-an-illegal-power-plant-to-power-its-data-center",
+      "title": "xAI built an illegal power plant to power its data center",
+      "content": "Just south of the Tennessee-Mississippi state line sits dozens of unpermitted gas turbines that power xAI’s Colossus 2 data center while releasing smog-forming pollution, soot, and hazardous chemicals like formaldehyde. The tech company set up the de facto power plant with no permits, no public input, and no notice to nearby communities that will have to deal with the consequences.\n\n## Tell Congress to put guardrails on data centers.\n\nTake Action Now [...] xAI began operations at its second South Memphis data center, Colossus 2, late last year. To meet the data center’s massive power needs xAI installed 27 gas turbines at a nearby location in Southaven, Mississippi. The turbines can generate up to 495 megawatts of power — the equivalent of a conventional power plant.\n\nGas turbines emit smog-forming pollution, fine particulate matter, and hazardous chemicals like formaldehyde. These pollutants are tied to increases in, among other things: [...] In February, we sent xAI a notice of intent to sue. The notice letter explained~~s~~ that xAI, a company founded by Elon Musk, is violating the Clean Air Act by installing and operating polluting gas-fired turbines without obtaining any permits.\n\nThe company’s failure to get a permit for its power plant—which is located near homes, schools, and churches—creates added health risks for families in North Mississippi and Memphis.",
+      "score": 0.76194656,
+      "raw_content": null,
+      "id": "bad0b6-01"
+    },
+    {
+      "url": "https://tennesseelookout.com/2026/03/18/a-battle-over-data-centers-heats-up-along-the-mississippi-tennessee-state-line",
+      "title": "A battle over data centers heats up along the Mississippi-Tennessee state line • Tennessee Lookout",
+      "content": "xAI has followed the same blueprint for Colossus 2 in Memphis’ Whitehaven neighborhood, placing up to 27 unpermitted turbines at a nearby facility in Southaven and using them to meet the data center’s energy needs while construction is ongoing. The company plans to build a third data center in Southaven in the coming months but has yet to reveal how the facility will be powered. [...] ## New Permit, Same Power Source\n\nTo supply long-term power to its Colossus 2 data center, xAI requested a state permit last summer authorizing 41 permanent gas turbines at its Southaven plant. The installation would create a “behind-the-meter” electrical plant with a power generation capacity of about 1.2 gigawatts — more than half the maximum output of Hoover Dam. [...] At the end of her street, a few hundred yards away from her bedroom, sprawls Colossus 2, the second data center built by Elon Musk’s company xAI to power his controversial AI chatbot, Grok). \n\nAnd less than two miles across the state line in Southaven, Mississippi, is an xAI-owned energy plant with over two-dozen towering gas turbines.",
+      "score": 0.75809944,
+      "raw_content": null,
+      "id": "ffa01e-02"
+    },
+    {
+      "url": "https://earthjustice.org/case/xai-illegal-gas-power-plant-data-center-colossus",
+      "title": "Illegal Pollution from Data Center Power Plants Shouldn’t Harm Our Communities. We’re Suing xAI. - Earthjustice",
+      "content": "A huge, white-colored building is in a large clearing, surrounded by dense forest. Rows of dozens of large, rectangular industrial machinery operate outside of the building. A truck with a bright red cab drives past the building and machinery. Two tall, yellow construction cranes are visible behind the building.\n\nThe xAI data center, Colossus II, in Memphis, Tennessee, just north of Southaven, Mississippi. (Brad Zweerink / Earthjustice)\n\n## Case Updates\n\nJuly 30, 2026 document [...] Thermal drone footage shows unpermitted turbines operating at xAI’s gas plant in Southaven, Miss., nearly two weeks after the EPA ruled such turbines require permits before they can run. (Evan Simon / Floodlight)\n\nThe lawsuit explains that xAI is illegally operating 27 gas turbines without an air permit in Southaven, Mississippi, effectively building a power plant for its Colossus 2 data center, which powers the company’s chatbot, Grok. [...] We sued.\n\nRepresented by Earthjustice and Southern Environmental Law Center, the NAACP and the Mississippi State Conference of the NAACP sued xAI and its subsidiary, MZX Tech, for the tech companies’ unlawful operation of 27 unpermitted methane gas turbines in Southaven, Mississippi, to power its Colossus 2 data center in South Memphis.",
+      "score": 0.7511561,
+      "raw_content": null,
+      "id": "3a8a8a-03"
+    },
+    {
+      "url": "https://www.mississippifreepress.org/xai-faces-fierce-opposition-over-southaven-mississippi-power-plant-permit",
+      "title": "Southaven Residents Fight xAI’s Plan for 41 Gas Turbines",
+      "content": "### A Familiar Pattern\n\nxAI’s activities in Memphis and subsequent push into Mississippi have been controversial, even by data center standards. To get its inaugural data center, Colossus 1, up and running as swiftly as possible, the company relied on unpermitted combustion turbines powered by methane gas, installing as many as 35 of the machines in Memphis’ Boxtown neighborhood. [...] At the end of her street, a few hundred yards away from her bedroom, sprawls Colossus 2, the second data center built by Elon Musk’s company xAI to power his controversial AI chatbot, Grok. And less than two miles across the state line in Southaven, Mississippi, is an xAI-owned energy plant with over two-dozen towering gas turbines. [...] To supply long-term power to its Colossus 2 data center, xAI has requested a permit from MDEQ that would authorize the siting of 41 permanent gas turbines at its Southaven plant. The installation would create a “behind-the-meter” electrical plant with a power generation capacity of about 1.2 gigawatts—more than half the maximum output of the Hoover Dam.",
+      "score": 0.5837973,
+      "raw_content": null,
+      "id": "bfd7a0-04"
+    }
+  ],
+  "response_time": 2.15,
+  "request_id": "0d5f3d56-1ca0-4464-8188-c94e7ef3e483"
+}

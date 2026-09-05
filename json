@@ -1,0 +1,34 @@
+{
+  "query": "Artemis II crew eclipses record farthest human spaceflight NASA",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-eclipses-record-for-farthest-human-spaceflight",
+      "title": "NASA’s Artemis II Crew Eclipses Record for Farthest Human Spaceflight",
+      "content": "Four astronauts aboard NASA’s Artemis II test flight around the Moon made history at 12:56 p.m. CDT on Monday, traveling 248,655 miles from Earth, surpassing the record for human spaceflight’s farthest distance previously set by the Apollo 13 mission in 1970. At its farthest point, crew inside the Orion spacecraft will have traveled about 252,756 miles, before looping back toward our home planet, setting the new record for human spaceflight. [...] Six days into the first crewed mission of NASA’s Artemis program, NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen continued collecting pictures of the Moon on their voyage away from Earth. [...] “At NASA, we dare to reach higher, explore farther, and achieve the impossible. That’s embodied perfectly by our Artemis II astronauts – Reid, Victor, Christina, and Jeremy. They are charting new frontiers for all humanity,” said Dr. Lori Glaze, acting associate administrator for Exploration Systems Development Mission Directorate at NASA Headquarters in Washington. “Their dedication is about more than breaking records – it’s fueling our hope for a bold future. Their mission is carrying our",
+      "score": 0.9328032,
+      "raw_content": null,
+      "id": "d7f76b-00"
+    },
+    {
+      "url": "https://www.dw.com/en/artemis-ii-breaks-record-for-farthest-human-spaceflight/a-76677687",
+      "title": "Artemis II breaks record for farthest human spaceflight",
+      "content": "US astronaut Reid Wiseman is leading the Artemis II missionImage: NASA/UPI Photo/Newscom/picture alliance\n\nAdvertisement\n\nThe astronauts on the Artemis II mission made history on Monday, reaching the farthest distance in space of any human, after surpassing the previous record set by the Apollo 13 mission in April 1970. [...] With just an hour before kicking off the fly-around and lunar observations, the spaceship was situated 252,752 miles (406,764.9 kilometers) away from Earth, surpassing the distance record of 248,655 miles set by Apollo 13.\n\nThe Orion capsule had earlier on Monday reached the moon's gravitational sphere, meaning the spacecraft was more strongly affected by the moon's gravity than Earth's, NASA said.\n\nThe spacecraft  came closest to the moon, about 7,500 kilometres beyond the far side. [...] This is the first time in more than 50 years that a crew, consisting of US astronauts Victor Glover, Christina Koch and Reid Wiseman and Canadian astronaut Jeremy Hansen, travelled to the moon.\n\nVictor Glover became the first person of color to ever fly around the moon, and Christina Koch the first woman.\n\n## What have the astronauts observed so far?\n\nThe astronauts were tasked with documenting the moon during the lunar flyby.",
+      "score": 0.8891543,
+      "raw_content": null,
+      "id": "c97a21-01"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Artemis_II",
+      "title": "Artemis II - Wikipedia",
+      "content": "Among the four crew members, Victor Glover became the only person of color, Christina Koch the only woman, Canadian Space Agency astronaut Jeremy Hansen the only person not from the United States, and Reid Wiseman the oldest person to travel beyond low Earth orbit and around the Moon. During their lunar flyby, the crew broke Apollo 13's record of 248,655 miles (400,171 km) for the greatest human distance from Earth, reaching a maximum distance of 252,756 miles (406,771 km). After its launch, [...] Artemis II (April 1–11, 2026) was a crewed flyby \"Flyby (spaceflight)\") of the Moon. It is currently the only crewed flight beyond low Earth orbit since Apollo 17 in 1972. It was the first crewed flight of the NASA-led Artemis program, the first crewed flight of the Space Launch System (SLS), and the first crewed flight of the Orion spacecraft \"Orion (spacecraft)\"), named Integrity by the four-person crew. [...] \"), where lunar gravity became the dominant force shaping its trajectory. Orion flew around the Moon at a closest approach of about 4,067 miles (6,545 km; 3,534 nmi) from the far-side lunar surface at 23:00 UTC on April 6. Its farthest distance from Earth was 252,756 miles (406,771 km; 219,639 nmi) at 23:02 UTC, and it surpassed Apollo 13's 248,655 miles (400,171 km; 216,075 nmi) record as the farthest crewed mission from Earth at 17:56 UTC. As the crew passed behind the Moon, Orion experienced",
+      "score": 0.83678174,
+      "raw_content": null,
+      "id": "67ef54-02"
+    }
+  ],
+  "response_time": 1.09,
+  "request_id": "9572eec8-a50f-4da6-a918-03c6a3f7aea7"
+}

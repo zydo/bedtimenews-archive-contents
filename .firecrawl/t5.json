@@ -1,0 +1,50 @@
+{
+  "query": "xAI Memphis gas turbines number 2026 Colossus permitted",
+  "follow_up_questions": null,
+  "answer": "xAI's Memphis data center was permitted for 15 gas turbines, but operated with more than 35, leading to legal challenges. The company eventually removed the excess turbines and obtained permits for the remaining 15.",
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.gem.wiki/Colossus_1_power_station",
+      "title": "Colossus 1 power station - Global Energy Monitor",
+      "content": "12. ↑ 12.0 12.1 12.2 \"xAI granted permits for 15 gas turbines at Memphis data center\". DCD. 2025-07-03. Retrieved 2025-10-31.`{{cite web}}`: CS1 maint: url-status (link)\n13. ↑ 13.0 13.1 \"xAI doubles number of onsite gas turbines at Memphis data center in violation of permit limits\". DCD. 2025-04-11. Retrieved 2025-10-31.`{{cite web}}`: CS1 maint: url-status (link) [...] Aerial imagery from April 2025 revealed approximately 35 gas-fueled turbines on site, many more than publicly permitted at the time. The Shelby County Health Department eventually granted an air permit in July 2025 for up to 15 turbines generating about 247.2 MW, valid through January 2027. xAI announced it would remove or demobilize many of the turbines: a statement indicated that over the upcoming months the “temporary” gas turbines would be removed, with remaining units relegated to backup [...] 14. ↑ \"xAI is facing a lawsuit for operating over 400 MW of gas turbines without permits | TechCrunch\". techcrunch.com. 2025-06-18. Retrieved 2025-10-31.`{{cite web}}`: CS1 maint: url-status (link)\n15. ↑ 15.0 15.1 \"xAI data center gets air permit to run 15 turbines, but imaging shows 24 on site - Ars Technica\". arstechnica.com. 2025-07-03. Retrieved 2025-10-31.`{{cite web}}`: CS1 maint: url-status (link)",
+      "score": 0.7555112,
+      "raw_content": null,
+      "id": "7ed2da-00"
+    },
+    {
+      "url": "https://www.datacenterdynamics.com/en/news/xai-doubles-number-of-onsite-gas-turbines-at-memphis-data-center-in-violation-of-permit-limits",
+      "title": "xAI doubles number of onsite gas turbines at Memphis data center in violation of permit limits - DCD",
+      "content": "#\n\n Home\n News\n The Mission Critical Power Channel\n\n# xAI doubles number of onsite gas turbines at Memphis data center in violation of permit limits\n\nAerial photos revealed 35 onsite methane gas turbines\n\nBy\n:   Zachary Skidmore\n\n  Have your say\n\nPreferred source\n\nElon Musk-owned xAI has doubled the number of gas turbines at its Colossus Supercomputer in Memphis, potentially violating its onsite generation permit. [...] The SLRC has previously written to the Shelby Health Department concerning the deployment of gas turbines on the site. Last August, the group claimed that it believed that xAI has 18 onsite gas generators without a permit, which it argued is placing undue health risks on the local community.\n\nOperations at the Colossus Supercomputer went live in July. The data center has a reported capacity of 150MW, and an 8MW grid connection with the TVA, which was increased to 150MW in November. [...] According to the photos, the data center now has 35 methane gas turbines onsite, which is more than double the 15 it has been permitted to operate. The SLRC claims that this is in clear violation of the Clean Air Act.",
+      "score": 0.70702106,
+      "raw_content": null,
+      "id": "6389f4-01"
+    },
+    {
+      "url": "https://www.selc.org/news/xai-built-an-illegal-power-plant-to-power-its-data-center",
+      "title": "xAI built an illegal power plant to power its data center - Southern Environmental Law Center",
+      "content": "xAI removed its unpermitted turbines at the Colossus 1 data center after SELC, on behalf of the NAACP, sent a notice of intent to sue under the Clean Air Act. The company obtained permits for its remaining 15 turbines.\n\nxAI is currently planning to operate a third data center in the Memphis area—this one also located in Southaven—but the company has not provided any details about how the third will be powered or the impact it will have on air quality and community members’ health. [...] xAI began operations at its second South Memphis data center, Colossus 2, late last year. To meet the data center’s massive power needs xAI installed 27 gas turbines at a nearby location in Southaven, Mississippi. The turbines can generate up to 495 megawatts of power — the equivalent of a conventional power plant.\n\nGas turbines emit smog-forming pollution, fine particulate matter, and hazardous chemicals like formaldehyde. These pollutants are tied to increases in, among other things: [...] This isn’t the first time xAI has built a powerplant in the Memphis area without any permits or public oversight. The company began operations at its first site, Colossus 1, in June of 2024 and used as many as 35 unpermitted gas turbines to power the facility. Despite receiving intense public pushback over the use of illegal turbines and the lack of public input and transparency around Colossus 1, xAI officials said it planned on “copying and pasting” its unlawful turbine strategy to power",
+      "score": 0.69622743,
+      "raw_content": null,
+      "id": "4f8727-02"
+    },
+    {
+      "url": "https://energy.media/energy-deals/xai-gas-turbine-lawsuit-permitting-explained",
+      "title": "xAI’s Gas Turbines, the DOJ, and the Data Center Power Permit Maze: A Plain-English Explainer - Energy.Media",
+      "content": "Who is suing xAI over its gas turbines? The NAACP, represented by the Southern Environmental Law Center and Earthjustice, filed the Clean Air Act suit in April 2026, alleging xAI operated gas turbines near Memphis without required federal air permits. [...] The NAACP, represented by the Southern Environmental Law Center (SELC) and Earthjustice, filed suit in April 2026. The core allegation is procedural: that xAI operated the turbines without the air permits the federal Clean Air Act requires, in a region that already faces elevated ozone and nitrogen-oxide (NOx) levels. xAI and the state of Mississippi argued the trailer-mounted units qualified as mobile or temporary sources exempt from stationary-source permitting. The plaintiffs requested a [...] Did the DOJ say xAI’s turbines are legal? No. The DOJ’s June 2026 filing did not dispute that the turbines lack permits. It argued that national-security interests outweigh the enforcement claim and asked the court to dismiss the case.",
+      "score": 0.65279555,
+      "raw_content": null,
+      "id": "509d59-03"
+    },
+    {
+      "url": "https://www.epw.senate.gov/public/index.cfm/2026/4/whitehouse-calls-for-answers-about-musk-backed-xai-s-pattern-of-operating-illegal-data-center-gas-plants",
+      "title": "Whitehouse Calls for Answers About Musk-backed xAI’s Pattern of Operating Illegal Data Center Gas Plants - Minority News - U.S. Senate Committee on Environment and Public Works",
+      "content": "xAI has a history of operating unpermitted, polluting turbines in vulnerable communities.  At its Colossus 1 data center in South Memphis, Tennessee—where residents face cancer risk four times higher than the national average—thermal imagery from last April showed over 30 unpermitted gas turbines running.  Community members opposed the disproportionate impact, air pollution, and increased water and electricity use associated with the project, and the Southern Environmental Law Center sued.  xAI [...] Late last year, xAI trucked 27 gas turbines into Southaven, a town that has long dealt with unhealthy air quality, to power its Colossus 2 data center across the state line in Memphis, Tennessee.  Without securing the permits required under the Clean Air Act, xAI began running the nearly 500MW turbine array, still on the backs of the tractor trailer trucks they arrived on, as a de facto power plant.  Whitehouse noted that in the absence of permitting action by the state of Mississippi, EPA has [...] Despite overwhelming community opposition and xAI’s apparently illegal behavior, last month the Mississippi Department of Environmental Quality approved xAI’s permit application for 41 permanent turbines at the Southaven site.  This came just three weeks after the public comment period closed, including a public hearing in which residents overwhelmingly rejected the proposal.  Meanwhile, the illegal unpermitted turbines are still running.",
+      "score": 0.62330866,
+      "raw_content": null,
+      "id": "1287f0-04"
+    }
+  ],
+  "response_time": 1.33,
+  "request_id": "ce78d465-cfc6-4714-a691-1e1cc210b0e9"
+}

@@ -1,0 +1,50 @@
+{
+  "query": "PISA 2009 Thailand rank 65 countries Vietnam 17th mathematics",
+  "follow_up_questions": null,
+  "answer": "Thailand ranked 65th in PISA 2009 mathematics; Vietnam ranked 17th in the same subject. Vietnam's performance in PISA 2012 was notably strong in mathematics, reading, and science.",
+  "images": [],
+  "results": [
+    {
+      "url": "https://educationbycountry.org/pisa-rankings-by-country",
+      "title": "PISA Rankings by Country (2000–2026 Full Analysis)",
+      "content": "Method note: Overall Score = Mathematics + Reading + Science divided by three. This table includes country/economy entries with complete 2009 mathematics, reading, and science scores in the comparison data used here. [...] PISA 2009 Overall Ranking by Average Score\nPISA 2009 focused mainly on reading. The table below ranks countries and economies by an editorial average of mathematics, reading, and science. OECD does not publish one official combined PISA score, so the overall score is calculated here only for easier comparison. [...] | 2006 | Science | 57 countries/economies | Finland led science, Korea rose strongly in reading, and the top mathematics group was tightly clustered. |\n| 2009 | Reading | 65 countries/economies | Shanghai-China entered the ranking and reset the upper benchmark in reading and mathematics. |\n| 2012 | Mathematics | 65 countries/economies | Shanghai-China and Singapore widened the top end of mathematics performance. |",
+      "score": 0.45871297,
+      "raw_content": null,
+      "id": "641964-00"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Programme_for_International_Student_Assessment",
+      "title": "Programme for International Student Assessment",
+      "content": "The Programme for International Student Assessment (PISA) is a worldwide study by the Organisation for Economic Co-operation and Development (OECD) in member and non-member nations intended to evaluate educational systems by measuring 15-year-old school pupils' scholastic performance on mathematics, science, and reading.( It was first performed in 2000 and then repeated every three years. Its aim is to provide comparable data to enable countries to improve their education policies and outcomes. [...] [edit]\n\n| Mathematics | [...] ### Rankings comparison 2000–2022\n\n[edit]\n\n| Mathematics |",
+      "score": 0.4129331,
+      "raw_content": null,
+      "id": "b127d3-01"
+    },
+    {
+      "url": "https://docs.iza.org/dp13066.pdf",
+      "title": "[PDF] Vietnam's Extraordinary Performance in the PISA Assessment",
+      "content": "for International Student Assessment (PISA) 2012 round, it ranked 19th in reading, 17th 3 in mathematics and 8th in science among 65 participating nations. There is no substantial difference in PISA performance within country, across regions and social groups, suggesting that Vietnam ensures equity and opportunity to learn for all children (Thien, Razak, Keeves and Darmawan, 2016). On the other hand, its ASEAN neighbors such as Malaysia, Indonesia and Thailand could not replicate Vietnam’s [...] (-39.01) (-15.05) (-13.55) Thailand -101.00 -76.64 -69.31 -68.22 -146.73 -115.50 -98.58 -93.93 -107.49 -82.13 -75.06 -73.42 (-29.89) (-19.02) (-8.23) (-6.99) (-40.04) (-26.94) (-9.27) (-7.93) (-32.21) (-20.65) (-9.86) (-8.41) Korea -6.43 -11.73 -1.6 7.16 -19.70 -29.84 -11.29 -0.06 -13.71 -22.17 -7.36 -0.59 (-1.56) (-2.89) (-0.24) -0.96 (-4.07) (-6.65) (-1.57) (-0.01) (-3.54) (-5.31) (-1.23) (-0.09) Viet Nam -34.00 -12.36 5.3 5.06 -62.13 -37.43 -8.05 -6.87 -23.07 -2.61 14.69 18.34 (-7.65) [...] be an explanation for less satisfactory performance of non-CHC countries such as Indonesia, Malaysia and Thailand in PISA. Existing evidence confirms a higher level of anxiety and stress in learning mathematics, and low level of mathematics self-efficacy among the Malaysian, Indonesian and Thai students have been confirmed as a reason for their 31 underperformance in PISA (Thien and Ong, 2015). A related variable included in our model is the role of parental expectations from schools. Of the 65",
+      "score": 0.6058229,
+      "raw_content": null,
+      "id": "3b4464-02"
+    },
+    {
+      "url": "https://edsource.org/wp-content/uploads/old/PISA-2009-results1.pdf",
+      "title": "[PDF] PISA 2009 Results: Executive Summary - EdSource",
+      "content": "495 -2 -5 -1 -2.7 -3.4 -3.2 Norway 503 -2 -5 -1 -2.5 -2.8 0.4 Russian Federation 459 -2 -6 1 -0.1 -0.0 1.4 Japan 520 -2 -6 3 3.5 3.6 c Romania 424 -3 -18 11 -0.9 -1.5 10.7 United States 500 -5 -2 -6 -0.3 -2.4 -9.2 Iceland 500 -7 -10 -6 2.3 -0.5 5.4 New Zealand 521 -8 -8 -8 0.6 -3.0 4.9 France 496 -9 -15 -4 4.6 1.1 7.0 Thailand 421 -9 -6 -10 5.8 -0.2 -0.7 Canada 524 -10 -12 -10 0.7 -4.0 -6.4 Finland 536 -11 -12 -8 1.2 -4.0 5.8 Spain 481 -12 -14 -10 3.3 -0.9 1.5 Australia 515 -13 -17 -13 1.8 -4.9 [...] 0.26 Shanghai-China 556 12.3 15.3 -0.09 1.00 Singapore 526 15.3 0.7 -0.09 1.00 Chinese Taipei 495 11.8 37.2 0.38 1.00 Thailand 421 13.3 9.8 0.76 0.79 Trinidad and Tobago 416 9.7 13.8 -0.61 1.00 Tunisia 404 8.1 26.0 -1.29 0.00 Uruguay 426 20.7 8.5 -0.99 0.00 1. In this index, 0 is the OECD average. The higher the value, the greater the autonomy granted to schools in that country/economy. 2. Values between 0 and 1 indicate that standards-based external examinations exist in some parts of the [...] Across OECD countries, overall performance in mathematics remained unchanged between 2003 and 2009, as did performance in science between 2006 and 2009.",
+      "score": 0.533714,
+      "raw_content": null,
+      "id": "8aff86-03"
+    },
+    {
+      "url": "https://edtrust.org/wp-content/uploads/2013/10/PISA-2009-12.09.10.pdf",
+      "title": "[PDF] Results from the 2009 Programme for International Student Assessment ...",
+      "content": "550 600 2000 2003 2006 2009 Average scale score PISA – All Subjects Reading Science Mathematics Note: Possible scores range from 0 to 1,000. Trends are not available from 2000 for all subjects due to revised assessment frameworks.  indicates score is significantly different from 2009 score at the p<.05 level. Source: “Highlights from PISA 2009,” NCES, 2010 U.S. Performance Over Time © 2010 THE EDUCATION TRUST © 2010 THE EDUCATION TRUST 504 500 496 495 350 400 450 500 550 600 2000 2009 Average [...] © 2010 THE EDUCATION TRUST Results from the 2009 Programme for International Student Assessment (PISA): How does the United States compare to other nations? December 2010 © 2010 THE EDUCATION TRUST © 2010 THE EDUCATION TRUST How has U.S. performance on PISA changed? © 2010 THE EDUCATION TRUST © 2010 THE EDUCATION TRUST Subject 2000 Rank (out of 26) 2003 Rank (out of 26) 2006 Rank (out of 26) 2009 Rank (out of 26) Reading 14th 14th n/a Tied 10th Mathematics 17th 22nd 22nd Tied 20th Science 13th [...] 20th Science 13th Tied 17th 19th 13th Source: PISA 2009 Results, OECD Note: Rankings are for the 26 countries that were members of the OECD and participated in PISA in 2000, 2003, 2006, and 2009. 2006 results for U.S. reading performance are not available. Performance Among the 26 OECD Countries Continuously Participating in PISA Since 2000 U.S. Ranks Low but has Risen Since 2006 © 2010 THE EDUCATION TRUST © 2010 THE EDUCATION TRUST 504 500 489 502 483 474 487 350 400 450 500 550 600 2000 2003",
+      "score": 0.3380339,
+      "raw_content": null,
+      "id": "bb803b-04"
+    }
+  ],
+  "response_time": 1.47,
+  "request_id": "b53ef75f-ae16-4639-b260-873907cc37b0"
+}

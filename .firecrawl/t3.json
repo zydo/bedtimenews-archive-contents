@@ -1,0 +1,50 @@
+{
+  "query": "Singapore total fertility rate 2025 0.87",
+  "follow_up_questions": null,
+  "answer": "Singapore's total fertility rate in 2025 was 0.87, the lowest on record. This decline continues a trend from 0.97 in 2024. The low rate reflects significant societal and economic challenges.",
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.singstat.gov.sg/news/total-fertility-rate-2025",
+      "title": "Total Fertility Rate 2025",
+      "content": "Department of Statistics Singapore\n\nSearch ButtonMenu Toggle\n\n Home\n News\n Total Fertility Rate 2025\n\n# Total Fertility Rate 2025\n\nOur resident total fertility rate (TFR) for 2025 was 0.87, lower than 0.97 in 2024.\n\n Dashboard on Fertility\n Infographic on Total Fertility Rate\n\nLearn more about Births and Fertility",
+      "score": 0.9521889,
+      "raw_content": null,
+      "id": "607bfe-00"
+    },
+    {
+      "url": "https://www.channelnewsasia.com/singapore/total-fertility-rate-tfr-2025-record-low-citizen-population-5954306",
+      "title": "Singapore's fertility rate drops to historic low of 0.87 as country faces 'existential challenge': DPM Gan - CNA",
+      "content": "Ang Hwee Min\n\nSINGAPORE: Singapore’s total fertility rate dropped significantly to a new low of 0.87 in 2025, Deputy Prime Minister Gan Kim Yong said in parliament on Thursday (Feb 26).\n\nThe country's fertility rate fell below 1.0 for the first time in 2023 to 0.97, and the figure remained the same in 2024.\n\nSingapore’s citizen population grew 0.7 per cent in 2025, said Mr Gan. [...] Noting the significant drop in total fertility rate from 1.24 a decade ago, he said low birth rates and an ageing population will “profoundly reshape” Singapore, as well as its society and economy in the coming years.\n\nSingapore saw about 27,500 resident births in 2025, the lowest number in its recorded history, said Mr Gan.\n\n“The overall trend is also of grave concern. Marriage rates have come down, and those who are married have fewer children or no children,” he added. [...] Singapore granted about 25,000 citizenships in 2025, he said. \n\nThe country expects to take in between 25,000 to 30,000 new citizens each year over the next five years, said Mr Gan, noting that this depends on other demographic trends including the total fertility rate. \n\n“We will also have to adjust our PR (permanent resident) intake, as permanent residence is the pathway to work towards citizenship,” he added.",
+      "score": 0.9505628,
+      "raw_content": null,
+      "id": "e7ab8f-01"
+    },
+    {
+      "url": "https://www.singstat.gov.sg/find-data/explore-data-themes/population/births-and-fertility/latest-news-data",
+      "title": "Latest News & Data - Births and Fertility",
+      "content": "## Latest News & Data\n\n## Latest News\n\n30 Jun 2026News\n\nGeneral Household Survey 2025\n\nExplore latest demographics, language, religion, living arrangement, transport etc. of Singapore residents and households from the General Household Survey 2025.\n\n06 May 2026News\n\nTotal Fertility Rate 2025\n\nOur resident total fertility rate (TFR) for 2025 was 0.87, lower than 0.97 in 2024.\n\n### Latest Data [...] | Item | Unit | Latest Period | Latest Data | % Change (Y-o-Y) | Previous Period Data | % Change (Y-o-Y) |\n ---  ---  --- \n| Total Live-Births | Number | 2025 | 29,864 | -11.4 | 33,703 | 0.5 |\n| Resident Live-Births | Number | 2025 | 27,393 | -11.1 | 30,808 | 1.0 |\n| Citizen Live-Births | Number | 2025 | 26,071 | -10.8 | 29,237 | 1.2 |\n| Resident Crude Birth Rate | Per 1,000 Residents | 2025 | 6.5 | na | 7.4 | na |\n| Resident Total Fertility Rate | Per Female | 2025 | 0.87 | na | 0.97 | na | [...] | Item | Unit | Latest Period | Latest Data | % Change (Y-o-Y) | Previous Period Data | % Change (Y-o-Y) |\n ---  ---  --- \n| Total Live-Births | Number | 2025 | 29,864 | -11.4 | 33,703 | 0.5 |\n| Resident Live-Births | Number | 2025 | 27,393 | -11.1 | 30,808 | 1.0 |\n| Citizen Live-Births | Number | 2025 | 26,071 | -10.8 | 29,237 | 1.2 |\n| Resident Crude Birth Rate | Per 1,000 Residents | 2025 | 6.5 | na | 7.4 | na |\n| Resident Total Fertility Rate | Per Female | 2025 | 0.87 | na | 0.97 | na |",
+      "score": 0.94451064,
+      "raw_content": null,
+      "id": "a3e12d-02"
+    },
+    {
+      "url": "https://www.reddit.com/r/asksg/comments/1rjj7r1/with_sgs_total_fertility_rate_falling_to_a",
+      "title": "With SG's total fertility rate falling to a historical low of 0.87 ...",
+      "content": "With SG's total fertility rate falling to a historical low of 0.87 in 2025, how many of you gen z are thinking of never having kids? I'll start",
+      "score": 0.8703443,
+      "raw_content": null,
+      "id": "c62514-03"
+    },
+    {
+      "url": "https://www.macrotrends.net/global-metrics/countries/sgp/singapore/fertility-rate",
+      "title": "Singapore Fertility Rate (1950-2026)",
+      "content": "Singapore fertility rate for 2025 was 1.26, a 0.48% increase from 2024. Singapore fertility rate for 2024 was 1.25, a 0.48% increase from 2023.",
+      "score": 0.8338803,
+      "raw_content": null,
+      "id": "a87220-04"
+    }
+  ],
+  "response_time": 1.17,
+  "request_id": "da3a91de-cd8d-40bf-9748-bc02ade598e0"
+}
