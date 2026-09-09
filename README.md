@@ -1,3 +1,8 @@
+> [!WARNING]
+> **本仓库已停止维护**
+> 活跃的文稿仓库已迁移至 **[BedtimeNewsStudio/BedtimeNews-Transcript](https://github.com/BedtimeNewsStudio/BedtimeNews-Transcript)**，请前往该仓库查阅与贡献。
+> 本仓库（含 `integration/proofread-all` 汇总分支）自 2026-09-08 起冻结存档，不再接受新的校对提交。
+
 # 睡前消息在线文稿内容仓库
 
 本仓库存放[《睡前消息》在线文稿](https://archive.bedtime.news)的内容。
